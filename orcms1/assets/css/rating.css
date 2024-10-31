@@ -1,0 +1,30 @@
+.rating {
+    font-size: 24px; /* Adjusts the size of the stars */
+}
+
+.rating .fa-star {
+    color: #d3d3d3; /* Light gray color for unselected stars */
+}
+
+.rating .fa-star.checked {
+    color: #f4cccc; /* Pink color for selected stars */
+}
+
+
+
+/* Custom button styling */
+.custom-btn {
+    background-color: black; /* Black background */
+    color: white; /* White text */
+    border-radius: 4px; /* Optional, rounded corners */
+    padding: 10px 20px; /* Optional, padding for size */
+    border: none; /* Remove any border */
+    transition: background-color 0.3s ease; /* Smooth transition for hover */
+    text-decoration: none; /* Remove underline for <a> elements */
+}
+
+/* Hover effect */
+.custom-btn:hover {
+    background-color: #f4cccc; /* Specific pink color on hover */
+    color: white; /* White text */
+}
