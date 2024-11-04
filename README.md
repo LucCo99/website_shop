@@ -14,7 +14,7 @@ This project focuses on building a website hosting platform with the following f
 - Currently using local MySQL, with plans to utilize AWS RDS for backups.
 
 ## Goals
-
+- [ ] **Buy a Domain**: Purchase a domain name and assign it to the web application.
 - [ ] **Set Up Version Control**: Implement version control to track changes and collaborate effectively.
 - [ ] **Regular Backups**: Establish a backup strategy using multiple zones to ensure data redundancy and reliability.
 - [ ] **Switch to PDO or MySQLi**: Enhance security by using prepared statements with PDO or MySQLi.
